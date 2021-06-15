@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+env
+.env
+output.csv
+results.csv
+=======
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -127,3 +133,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+>>>>>>> 4e7bb331122362a8bf722c8c0a183623284c0ce7
